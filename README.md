@@ -28,4 +28,4 @@
 
 > Genshin
 > 
-> ![genshin-card](https://genshin-card.himiku.com/rand/195834099.png)
+> ![genshin-card](http://genshin-card.himiku.com/detail/rand/195834099.png)

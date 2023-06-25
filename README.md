@@ -22,6 +22,7 @@
 <hr/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.stazxr.cn/api?username=talentestors&show_icons=true&theme=radical)](https://github-readme-stats-lake-delta.vercel.app/api?username=talentestors&show_icons=true&theme=radical)&nbsp;
+
 [![Anurag's GitHub stats](https://github-readme-stats.stazxr.cn/api/top-langs/?username=talentestors&show_icons=true&include_all_commits=true&theme=radical&layout=compact)](https://github-readme-stats-lake-delta.vercel.app/api/top-langs/?username=talentestors&show_icons=true&include_all_commits=true&theme=radical)
 
 #### Console&Game
@@ -29,3 +30,5 @@
 > Genshin
 > 
 > ![genshin-card](https://genshin-card.himiku.com/detail/rand/195834099.png)
+
+![talentestors.github.profile](https://count.getloli.com/get/@talentestors.github.profile?theme=rule34)

@@ -28,6 +28,6 @@
 
 > Genshin
 > 
-> [![genshin-card](https://genshin-card.himiku.com/detail/rand/195834099.png)](https://www.miyoushe.com/ys/accountCenter/postList?id=195834099)
+> [![genshin-card](https://genshin-card.himiku.com/rand/195834099.png)](https://www.miyoushe.com/ys/accountCenter/postList?id=195834099)
 
 ![talentestors.github.profile](https://count.getloli.com/get/@talentestors.github.profile?theme=rule34)

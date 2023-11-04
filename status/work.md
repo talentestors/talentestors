@@ -4,4 +4,4 @@
 
 ![github-readme-stats](https://github-readme-stats.stazxr.cn/api/top-langs/?username=talentestors&show_icons=true&include_all_commits=true&theme=radical)
 
-![](https://assets.leetcode.cn/aliyun-lc-upload/users/talentestors/avatar_1672724122.png?x-oss-process=image%2Fformat%2Cwebp)
+![](https://assets.leetcode.cn/aliyun-lc-upload/users/talentestors/avatar_1672724122.png)

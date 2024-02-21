@@ -1,5 +1,7 @@
 ## Hi! Here's Talentestors!ヾ(≧∇≦*)ゝ
 
+[![wakatime](https://wakatime.com/badge/user/018b66e8-e234-4be9-9887-627312a2cd1e.svg)](https://wakatime.com/@018b66e8-e234-4be9-9887-627312a2cd1e)
+
 #### Platform&Tools
 
 [![](https://img.shields.io/badge/Windows-11-4e9eee?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)

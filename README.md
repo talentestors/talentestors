@@ -17,7 +17,7 @@
 [![](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
 [![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 
-[![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://cppreference.com/)
+[![](https://img.shields.io/badge/-C/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://cppreference.com/)
 [![](https://img.shields.io/badge/-Python-FFDE57?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Rust-005A9E?style=flat-square&logo=Rust&logoColor=white)](https://www.rust-lang.org/)
 [![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)

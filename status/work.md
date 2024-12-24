@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=talentestors&no-frame=true&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=talentestors&no-frame=true&theme=dracula&rank=-?&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Waka time](http://github-readme-stats.stazxr.cn/api/wakatime?username=talentestors&hide=Other)](https://wakatime.com/@018b66e8-e234-4be9-9887-627312a2cd1e)
 

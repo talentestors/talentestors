@@ -18,7 +18,7 @@
 [![Python](https://img.shields.io/badge/-Python-FFDE57?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/)
 [![Rust](https://img.shields.io/badge/-Rust-005A9E?style=flat-square&logo=Rust&logoColor=white)](https://www.rust-lang.org/)
 
-<hr/>
+---
 
 [![talentestors' GitHub stats](https://github-readme-stats.stazxr.cn/api?username=talentestors&show_icons=true&theme=radical)](https://github-readme-stats.stazxr.cn/api?username=talentestors&show_icons=true&theme=radical)&nbsp;
 [![talentestors' GitHub stats](https://github-readme-stats.stazxr.cn/api/top-langs/?username=talentestors&show_icons=true&include_all_commits=true&theme=radical&layout=compact&hide=html)](https://github-readme-stats.stazxr.cn/api/top-langs/?username=talentestors&show_icons=true&include_all_commits=true&theme=radical&langs_count=10)

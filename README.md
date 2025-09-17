@@ -21,7 +21,7 @@
 ---
 
 [![talentestors' GitHub stats](https://github-readme-status.stazxr.top/api?username=talentestors&show_icons=true&theme=radical)](https://github-readme-status.stazxr.top/api?username=talentestors&show_icons=true&theme=radical)&nbsp;
-[![talentestors' GitHub stats](https://github-readme-status.stazxr.top/api/top-langs/?username=talentestors&show_icons=true&include_all_commits=true&theme=radical&layout=compact&hide=html)](https://github-readme-status.stazxr.top/api/top-langs/?username=talentestors&show_icons=true&include_all_commits=true&theme=radical&langs_count=20)
+[![talentestors' GitHub stats](https://github-readme-status.stazxr.top/api/top-langs/?username=talentestors&show_icons=true&include_all_commits=true&theme=radical&langs_count=8&layout=compact&hide=html)](https://github-readme-status.stazxr.top/api/top-langs/?username=talentestors&show_icons=true&include_all_commits=true&theme=radical&langs_count=20)
 
 #### Console&Game
 

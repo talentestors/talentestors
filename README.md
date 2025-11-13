@@ -9,10 +9,11 @@
 [![OS](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
 [![Vim](https://img.shields.io/badge/Vim-Neovim-4C953F?style=flat-square&logo=Vim&logoColor=ffffff)](https://www.vim.org/)
 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Vue](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
+[![Vue3](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org/)
+[![React](https://img.shields.io/badge/-React-087EA4?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/)
 
 [![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://cppreference.com/)
 [![Python](https://img.shields.io/badge/-Python-FFDE57?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/)

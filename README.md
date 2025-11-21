@@ -14,6 +14,7 @@
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vue3](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org/)
 [![React](https://img.shields.io/badge/-React-087EA4?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/)
+[![Astro](https://img.shields.io/badge/-Astro-24243e?style=flat-square&logo=astro&logoColor=white)](https://astro.build/)
 
 [![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://cppreference.com/)
 [![Python](https://img.shields.io/badge/-Python-FFDE57?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/)

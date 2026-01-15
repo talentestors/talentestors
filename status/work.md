@@ -1,10 +1,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=talentestors&no-frame=true&theme=dracula&rank=-?&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Waka time](http://github-readme-status.stazxr.top/api/wakatime?username=talentestors&hide=Other)](https://wakatime.com/@018b66e8-e234-4be9-9887-627312a2cd1e)
+[![Waka time](https://github-status.yuhiri.top/api/wakatime?username=talentestors&hide=Other)](https://wakatime.com/@018b66e8-e234-4be9-9887-627312a2cd1e)
 
-[![Waka time](https://github-readme-status.stazxr.top/api/wakatime?username=talentestors&layout=compact&hide=Other)](https://wakatime.com/@018b66e8-e234-4be9-9887-627312a2cd1e)
+[![Waka time](https://github-status.yuhiri.top/api/wakatime?username=talentestors&layout=compact&hide=Other)](https://wakatime.com/@018b66e8-e234-4be9-9887-627312a2cd1e)
 
-![github-readme-stats](https://github-readme-status.stazxr.top/api/top-langs/?username=talentestors&show_icons=true&include_all_commits=true&theme=radical)
+![github-readme-stats](https://github-status.yuhiri.top/api/top-langs/?username=talentestors&show_icons=true&include_all_commits=true&theme=radical)
 
 ![avatar](https://assets.leetcode.cn/aliyun-lc-upload/users/talentestors/avatar_1672724122.png)
 

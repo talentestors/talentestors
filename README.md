@@ -1,8 +1,9 @@
 ## Hi! Here's Yuhiri!ヾ(≧∇≦*)ゝ
 
 [![wakatime](https://wakatime.com/badge/user/018b66e8-e234-4be9-9887-627312a2cd1e.svg)](https://wakatime.com/@018b66e8-e234-4be9-9887-627312a2cd1e)
+[![trophy](https://github-profile-trophy.yuhiri.top/?username=talentestors&no-frame=true&theme=dracula&rank=-?&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
-#### Platform&Tools
+### Platform&Tools
 
 [![Windows](https://img.shields.io/badge/Windows-11-4e9eee?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)
 [![IDE](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
@@ -25,7 +26,7 @@
 [![talentestors' GitHub stats](https://github-status.yuhiri.top/api?username=talentestors&show_icons=true&theme=radical)](https://github-status.yuhiri.top/api?username=talentestors&show_icons=true&theme=radical)&nbsp;
 [![talentestors' GitHub stats](https://github-status.yuhiri.top/api/top-langs/?username=talentestors&show_icons=true&include_all_commits=true&theme=radical&langs_count=8&layout=compact&hide=html)](https://github-status.yuhiri.top/api/top-langs/?username=talentestors&show_icons=true&include_all_commits=true&theme=radical&langs_count=20)
 
-#### Console&Game
+### Console&Game
 
 > Steam
 > 

@@ -2,7 +2,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/018b66e8-e234-4be9-9887-627312a2cd1e.svg)](https://wakatime.com/@018b66e8-e234-4be9-9887-627312a2cd1e)
 
-[![trophy](https://github-profile-trophy.yuhiri.top/?username=talentestors&no-frame=true&theme=dracula&rank=-?&column=6)](https://github-profile-trophy.yuhiri.top/?username=talentestors&no-frame=true&theme=dracula&rank=-?&column=-1)
+[![trophy](https://github-profile-trophy.yuhiri.top/?username=talentestors&no-frame=true&theme=dracula&rank=-?&column=-1)](https://github-profile-trophy.yuhiri.top/?username=talentestors&no-frame=true&theme=dracula&rank=-?&column=-1)
 
 ### Platform&Tools
 

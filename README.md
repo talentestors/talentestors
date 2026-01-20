@@ -2,6 +2,8 @@
 
 [![wakatime](https://wakatime.com/badge/user/018b66e8-e234-4be9-9887-627312a2cd1e.svg)](https://wakatime.com/@018b66e8-e234-4be9-9887-627312a2cd1e)
 
+<img src="https://pic.imgdd.cc/item/696ee3dde775eb29d3f59ece.webp" height="200" align="right"/>
+
 ### 🛠️ Development Environment
 
 #### 💻 Operating Systems & Platforms

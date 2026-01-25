@@ -7,7 +7,7 @@
 ### 🛠️ Development Environment
 
 #### 💻 Operating Systems & Platforms
-[![Windows](https://img.shields.io/badge/Windows-11-4e9eee?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)
+[![Windows](https://img.shields.io/badge/Windows-11-4e9eee?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB0PSIxNzY5MzI5MzcyMDA5IiBjbGFzcz0iaWNvbiIgdmlld0JveD0iMCAwIDEwMjQgMTAyNCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHAtaWQ9IjU2NjMiIGlkPSJteF9uXzE3NjkzMjkzNzIwMDkiIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHBhdGggZD0iTTUyMy44MTg2NjcgODc3Ljk5NDY2N2w0MzMuOTYyNjY2IDcwLjgyNjY2NnYtNDAwLjY0SDUyMy44MTg2Njd2MzI5LjgxMzMzNHogbTAtNzMwLjc5NDY2N3YzMjguNzA0aDQzMy45NjI2NjZWNzUuMDkzMzMzTDUyMy44MTg2NjcgMTQ3LjJ6TTY1LjEwOTMzMyA0NzUuODE4NjY3aDM2Ni44OTA2NjdWMTU5LjEwNGwtMzY2LjkzMzMzMyA2MC44ODUzMzN2MjU1LjgyOTMzNHogbTAgMzMwLjQ5NmwzNjYuODkwNjY3IDU5Ljc3NnYtMzE3Ljg2NjY2N2gtMzY2LjkzMzMzM3YyNTguMDkwNjY3eiIgZmlsbD0iI2ZmZmZmZiIgcC1pZD0iNTY2NCI+PC9wYXRoPjwvc3ZnPg==&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)
 [![OS](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
 
 #### 🧑‍💻 Tools & Editors

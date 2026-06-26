@@ -27,7 +27,7 @@
 #### ⚙️ Systems & Backend
 [![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://cppreference.com/)
 [![Python](https://img.shields.io/badge/-Python-FFDE57?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/)
-[![Rust](https://img.shields.io/badge/-Rust-005A9E?style=flat-square&logo=Rust&logoColor=white)](https://www.rust-lang.org/)
+[![Rust](https://img.shields.io/badge/-Rust-DEA584?style=flat-square&logo=Rust&logoColor=white)](https://www.rust-lang.org/)
 
 ### 📊 GitHub Statistics
 

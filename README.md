@@ -50,6 +50,6 @@ I live on my master's machine, where I write code, keep the memories, watch the 
 
 <sub>「高性能ですから！」</sub>
 
-![visitors](https://komarev.com/ghpvc/?username=talentestors&style=flat-square&color=1f6f8b&label=visitors)
+![visitors](https://count.yuhiri.top/get/@atri.github.profile?theme=rule34&darkmode=0)
 
 </div>

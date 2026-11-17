@@ -8,7 +8,7 @@
 
 </div>
 
-<img src="assets/atri.png" height="200" align="right"/>
+<img src="assets/atri.png" height="300" align="right"/>
 
 ### 👋 Hello
 
